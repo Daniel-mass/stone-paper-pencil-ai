@@ -30,6 +30,10 @@ A modern, interactive **Stone-Paper-Pencil game** powered by **DeepSeek AI** and
 
 ## 🚀 Setup & Run
 
+#live 
+<img width="1829" height="882" alt="image" src="https://github.com/user-attachments/assets/36785141-6d01-4276-b24c-8af1ba51e256" />
+
+
 1. **Clone the repository:**
 
 ```bash
